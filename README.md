@@ -1,0 +1,2 @@
+# eugDB
+gui/cli ocd
